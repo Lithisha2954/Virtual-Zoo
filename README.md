@@ -1,2 +1,4 @@
 # Virtual-Zoo
-Virtual Zoo is a Python-based holographic simulation offering an immersive zoo experience with audio-visuals and animated animal interactions. It promotes wildlife education through virtual tours and AI-driven content. The project is officially patent-approved for its innovation.
+Virtual Zoo a patent filed project is a Python-based interactive holographic simulation that offers an immersive zoo experience through audio-visual and animated animal interactions. The project allows users to explore various animals, hear their sounds, and learn about their habitats, promoting wildlife education in an engaging manner.
+It uses holographic projection techniques, a Python GUI, and audio libraries to create a realistic and interactive learning environment. Designed as a low-cost, accessible educational tool, it is especially useful for schools, exhibitions, and remote learners.
+What sets this project apart is its integration of holography with virtual education, a concept that has earned it an official patent approval, recognizing its originality and potential impact in edtech and experiential learning.
